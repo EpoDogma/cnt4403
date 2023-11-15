@@ -1,0 +1,15 @@
+{
+  "name": "cnt4403",
+  "version": "1.0.0",
+  "description": "The webpage for the CNT4403 semester project. This webpage will be run on Ubuntu 22.04, and should be run alongside vftpd. Handlebars is used as the view engine.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dakota Bell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
